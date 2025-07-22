@@ -1,0 +1,55 @@
+body {
+   background-color: rgb(41, 41, 41);
+   text-align: center;
+}
+
+.logo {
+   width: 100px;
+
+}
+
+h1 {
+    background: linear-gradient(45deg, #2b006cb8, #d3247a);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: x-large;
+}
+
+header {
+    background-color: rgb(26, 26, 26);
+    width: 850px;   
+    text-align: center;
+    margin: auto;
+    height: 190PX;
+    border-radius: 12px;
+
+}
+
+nav {
+    background: linear-gradient(45deg, #2b006cb8, #d3247a); 
+    width: 850px;
+    height: 30px;
+    text-align: center;
+    margin: auto;
+    border-radius: 12px;
+}
+
+.nav-link {
+    color: rgb(29, 0, 71);
+    padding: 1%;
+}
+
+.nav-link:hover {
+    color: aliceblue;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    width: 850px;   
+    text-align: center;
+    margin: auto;
+    border-radius: 12px;
+
+}
+
